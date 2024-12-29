@@ -1,4 +1,6 @@
 DNS Enumeration is a technique used to RECONNAISSANCE
+
+
 DNS enumeration is critical for cybersecurity, enabling identification of all DNS records associated with a domain to discover vulnerabilities, map a company’s internet-connected devices, and expose hidden services.
 
 It returns important information about the target, such as DNS records, host names, IP addresses, etc. 
