@@ -1,0 +1,1 @@
+nmap -sSU -p 8080 --script dns-nsec-enum --script-args dns-nsec-enum.domains=brave.com greeksforgreeks.com
